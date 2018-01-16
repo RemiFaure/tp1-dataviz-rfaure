@@ -12,3 +12,5 @@ Il représente toujours un mouvement au fil du temps. Il peut être utilisé pou
 <image src="https://blogs.office.com/wp-content/uploads/2015/08/Introducing-the-Waterfall-chart-8.png" width="400" align="center">
 
 <image src="https://blogs.office.com/wp-content/uploads/2015/08/Introducing-the-Waterfall-chart-13.png" width="400" align="center">
+
+<image src="https://media.licdn.com/mpr/mpr/shrinknp_800_800/AAEAAQAAAAAAAAItAAAAJGI1NmY4NjVhLWMxZTAtNGE0Ni05NmViLWNmNTg4NTJhMWVkMw.png" width="400" align="center">
